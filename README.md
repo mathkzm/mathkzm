@@ -3,6 +3,8 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusmiyashiro.mm@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mkazumi)
+[![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/matheus-kazumi-silva-miyashiro/)
+
 
 🎓 Sou acadêmico do curso de Engenharia de Computação na Universidade Federal de Mato Grosso do Sul e apaixonado por tecnologias e pelas inovações e transformações que elas podem proporcionar à sociedade. 
 
