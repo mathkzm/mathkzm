@@ -53,11 +53,7 @@
 
 ### Sobre o perfil 👨🏻‍💻
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mathkzm&show_icons=true&theme=dark&locale=pt-br" alt="Anurag's GitHub stats" />
-</p>
-<p align="center">
-  <a href="https://github.com/mathkzm/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathkzm&layout=normal&theme=dark&locale=pt-br" alt="Top Langs" />
-  </a>
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathkzm&show_icons=true&theme=dark&locale=pt-br)
+
+### Linguagens mais usadas 👨🏻‍💻
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathkzm&layout=normal&theme=dark&locale=pt-br)](https://github.com/mathkzm/github-readme-stats) 
