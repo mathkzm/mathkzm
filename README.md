@@ -57,5 +57,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathkzm&show_icons=true&theme=dark&locale=pt-br)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathkzm&layout=normal&theme=dark&locale=pt-br&langs_count=6)](https://github.com/mathkzm/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathkzm&layout=normal&theme=dark&locale=pt-br&langs_count=7)](https://github.com/mathkzm/github-readme-stats) 
 
