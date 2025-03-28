@@ -6,9 +6,7 @@
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/matheus-kazumi-silva-miyashiro/)
 
 
-🎓 Sou acadêmico do curso de Engenharia de Computação na Universidade Federal de Mato Grosso do Sul e apaixonado por tecnologias e pelas inovações e transformações que elas podem proporcionar à sociedade. 
-
-📖 Atualmente, meus estudos estão focados na área de Análise de Dados e em Computação em Névoa, devido ao meu Trabalho de Conclusão de Curso (TCC).
+🎓 Sou acadêmico do curso de Engenharia de Computação na Universidade Federal de Mato Grosso do Sul.
 
 ### Tecnologias que utilizo 💻
 <div style="display: inline_block"><br/>
