@@ -2,7 +2,7 @@
 ### Olá! Eu sou o Matheus Miyashiro 👋🏻
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mkazumi)
 
-🎓 Sou acadêmico do curso de Engenharia de Computação na Universidade Federal de Mato Grosso do Sul.
+🎓 Sou Engenheiro de Computação, formado pela Universidade Federal de Mato Grosso do Sul (UFMS).
 
 ### Tecnologias que utilizo 💻
 <div style="display: inline_block"><br/>
