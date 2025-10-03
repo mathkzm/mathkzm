@@ -5,7 +5,7 @@ Meu nome é Matheus Miyashiro e sou graduado em Engenharia de Computação pela 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusmiyashiro)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusmiyashiro.mm@gmail.com)
 
-## Ferramentas que utilizo
+## Ferramentas que utilizo ⚙️
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -20,7 +20,7 @@ Meu nome é Matheus Miyashiro e sou graduado em Engenharia de Computação pela 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-## Ferramentas em estudo
+## Ferramentas em estudo ⚙️
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,7 +34,7 @@ Meu nome é Matheus Miyashiro e sou graduado em Engenharia de Computação pela 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## Estatísticas
+## Estatísticas 📊
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathkzm&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathkzm&layout=normal&theme=tokyonight)](https://github.com/mathkzm/github-readme-stats)
