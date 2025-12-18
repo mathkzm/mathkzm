@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou Engenheiro de Computação pela Universidade Federal de Mato Grosso do Sul (UFMS). Apaixonado por tecnologia, informação e inovação, tenho forte interesse nas áreas de desenvolvimento back-end e inteligência artificial.
+Sou Engenheiro de Computação pela Universidade Federal de Mato Grosso do Sul (UFMS). Apaixonado por tecnologia, informação e inovação, tenho forte interesse nas áreas de desenvolvimento back-end, dados e inteligência artificial.
 
 ![Profile](https://komarev.com/ghpvc/?username=mathkzm&style=for-the-badge)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusmiyashiro)
